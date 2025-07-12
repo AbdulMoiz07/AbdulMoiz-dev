@@ -1,64 +1,70 @@
-<!-- README.md (with visual hello + animated dividers + icons style like screenshot) -->
-
-<!-- Hero GIF at Top -->
 <p align="center">
-  <img src="https://github.com/AbdulMoiz07/AbdulMoiz07/assets/your_gif_path_here.gif" width="80%" alt="hello gif" />
+  <img src="https://raw.githubusercontent.com/TahaGPT/TahaGPT/main/hello.gif" width="500" />
 </p>
 
-<!-- Typing Text Banner -->
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+%F0%9F%91%8B+I'm+Abdul+Moiz;CS+Student+%7C+Web3+Learner;Regex+%7C+DBMS+%7C+Assembly+%F0%9F%94%AD;Let's+Build+Together+%F0%9F%9A%80&center=true&width=500&height=45&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hola!+I'm+Abdul+Moiz;BSCS+Student+%7C+Web3+and+AI+Enthusiast;Python+%7C+C%2B%2B+%7C+React+%7C+MongoDB+%7C+Tailwind;Let’s+Build+Cool+Stuff+Together!" alt="Typing SVG" />
 </p>
 
-<!-- Fancy Animated Divider -->
+---
+
+<h2 align="center">🧠 Expertise</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animated-dividers/main/dividers/animated/divider_4.gif" width="100%" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-333333?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regex-E34F26?style=for-the-badge&logoColor=white"/>
 </p>
 
-<!-- Languages & Tools Icons Like Screenshot -->
-<h3 align="center">Languages and Tools 🧰</h3>
+---
+
+<h2 align="center">🧰 Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,tailwind,bootstrap,cisco,mongodb,mysql,vscode,jupyter,anaconda&perline=8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40"/>
 </p>
 
-<!-- Divider -->
+---
+
+<h2 align="center">📫 Connect with Me</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animated-dividers/main/dividers/animated/divider_4.gif" width="100%" />
+  <a href="mailto:abdulmoizawan1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdul-moiz-33146b29b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://farcaster.xyz/spoidy7"><img src="https://img.shields.io/badge/Warpcast-5C27FE?style=for-the-badge&logo=warp&logoColor=white"/></a>
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulMoiz07&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoiz07&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMoiz07&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulMoiz07&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoiz07&theme=tokyonight" width="47%"/>
 </p>
 
-<!-- Divider -->
+---
+
+<h2 align="center">✨ Fun Animation</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animated-dividers/main/dividers/animated/divider_4.gif" width="100%" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="200"/>
 </p>
 
-<!-- Contribution Graph -->
-<h3 align="center">📈 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMoiz07&theme=tokyo-night" />
-</p>
+---
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animated-dividers/main/dividers/animated/divider_4.gif" width="100%" />
-</p>
-
-<!-- Socials -->
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-moiz-33146b29b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abdulmoizawan1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://farcaster.xyz/spoidy7"><img src="https://img.shields.io/badge/Warpcast-5D3FD3?style=for-the-badge&logo=data:image/svg+xml;base64,..." /></a>
-</p>
-
-<!-- Final Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animated-dividers/main/dividers/animated/divider_4.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
