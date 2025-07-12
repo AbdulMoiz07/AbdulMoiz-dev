@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hola+👋+I'm+Abdul+Moiz;Web3+Enthusiast+%7C+CS+Student;Assembly+%7C+Regex+%7C+DBMS+Nerd;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hola+👋+I'm+Abdul+Moiz;Web3+Enthusiast+%7C+CS+Student;Assembly+%7C+Regex+%7C+DBMS+Nerd;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdul-moiz-33146b29b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdulmoizawan1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://farcaster.xyz/spoidy7"><img src="https://img.shields.io/badge/Warpcast-5D3FD3?style=for-the-badge&logo=warp&logoColor=white" /></a>
 </p>
