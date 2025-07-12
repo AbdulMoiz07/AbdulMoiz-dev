@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hola+👋+I'm+Abdul+Moiz;Web3+Enthusiast+%7C+CS+Student;Assembly+%7C+Regex+%7C+DBMS+Nerd;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hola+👋+I'm+Abdul+Moiz;Web3+Enthusiast+%7C+CS+Student;Assembly+%7C+Regex+%7C+DBMS+Nerd;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -38,5 +38,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-moiz-33146b29b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abdulmoizawan1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://farcaster.xyz/spoidy7"><img src="https://img.shields.io/badge/Warpcast-5D3FD3?style=for-the-badge&logo=warp&logoColor=white" /></a>
+  <a href="https://farcaster.xyz/spoidy7"><img src="https://img.shields.io/badge/Warpcast-5D3FD3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjI1MCIgY3k9IjI1MCIgcj0iMjUwIiBmaWxsPSIjNUQzRkQzIi8+PC9zdmc+" /></a>
 </p>
